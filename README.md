@@ -12,7 +12,7 @@
 
 第二部分是对于lab，总结的一些更加有用的提示。
 
-- [hints补充](2.hints补充/README.md)
+- [hints补充](2.Hints补充/README.md)
 
 希望你能够根据我们的经验，避免踩坑。
 
@@ -21,7 +21,7 @@
 第三部分其它辅助资源。
 
 - [xv6 book中文翻译](3.辅助资源/README.md)
-- [MIT Video.md](3.辅助资源/MIT-Video.md)，强烈在lab卡住的时候观看此部分内容。
+- [MIT Video](3.辅助资源/README.md)，强烈在lab卡住的时候观看此部分内容。
 
 ## 4. 反馈
 
