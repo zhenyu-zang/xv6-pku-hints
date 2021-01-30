@@ -7,6 +7,7 @@
 第一部分为xv6 lab安装指南。
 
 - [Ubuntu20](1.安装教程/Ubuntu20.md)
+- [docker](1.安装教程/docker.md)
 
 ## 2. Hints补充
 
