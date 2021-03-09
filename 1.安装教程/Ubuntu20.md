@@ -69,7 +69,7 @@ Pain Is Inevitable; Suffering Is Optional
    我们来试试打开第一个lab，键入命令:
 
    ```
-   git check util
+   git checkout util
    ```
 
    再键入命令:
