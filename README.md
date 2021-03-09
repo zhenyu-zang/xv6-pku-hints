@@ -8,6 +8,7 @@
 
 - [Ubuntu20](1.安装教程/Ubuntu20.md)
 - [docker](1.安装教程/docker.md)
+- [WSL](1.安装教程/wsl.md)
 
 ## 2. Hints补充
 
