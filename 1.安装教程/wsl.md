@@ -43,7 +43,7 @@ dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /nores
 wsl --set-default-version 2
 ```
 
-#步骤 6：安装Ubuntu 20.04 LTS
+# 步骤 6：安装Ubuntu 20.04 LTS
 
 打开win10自带的应用商店，搜索`Ubuntu`，选择Ubuntu 20.04 LTS下载安装
 
@@ -81,6 +81,6 @@ QEMU emulator version 4.2.1 (Debian 1:4.2-3ubuntu6.14)
 Copyright (c) 2003-2019 Fabrice Bellard and the QEMU Project developers
 ```
 
-#步骤8：开始完成Lab
+# 步骤8：开始试用Lab
 
 请参考[MIT的官方指南](https://pdos.csail.mit.edu/6.828/2020/labs/util.html)
