@@ -1,6 +1,8 @@
 # xv6-pku-hints
 
-这里面包含了2020年选修北京大学操作系统课程并做2020年MIT-xv6lab的同学积累的经验。
+这里面包含了往年选修北京大学操作系统课程并做MIT-xv6 lab的同学积累的经验。
+
+欢迎同学们提pull request，增添更多hints与辅助资源，帮助我们改进。
 
 ## 1. 安装教程
 
@@ -22,8 +24,8 @@
 
 第三部分其它辅助资源。
 
-- [xv6 book中文翻译](3.辅助资源/README.md)
-- [MIT Video](3.辅助资源/README.md)，强烈在lab卡住的时候观看此部分内容。
+- [xv6-book中文翻译](https://github.com/FrankZn/xv6-riscv-book-Chinese)，如发现翻译错误或可以改进的地方，欢迎提出issue或pull request。
+- [MIT Video](3.辅助资源/MIT-Video.md)，强烈建议在lab卡住的时候观看此部分内容。
 
 ## 4. 反馈
 
@@ -33,5 +35,6 @@
 
 ## 5. 致谢
 
-TODO
+感谢以下同学对本仓库资源的贡献：
 
+臧振宇，丁睿，刘俊豪，刘雨俊，何思齐，刘又铭，贾子菡。
