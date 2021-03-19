@@ -61,11 +61,13 @@ bullseye/sid
 
 # 步骤7：安装所需的软件包
 
+和完整Ubuntu20系统不同，WSL并没有自带Python2解释器，所以下面的软件包列表和官方指南有所不同
+
 在Linux Shell中运行
 
 ```bash
 sudo apt update
-sudo apt install git build-essential gdb-multiarch qemu-system-misc gcc-riscv64-linux-gnu binutils-riscv64-linux-gnu 
+sudo apt install git build-essential gdb-multiarch qemu-system-misc gcc-riscv64-linux-gnu binutils-riscv64-linux-gnu python
 ```
 
 会要求输入您的密码，并输入y确认下载，按提示操作即可
