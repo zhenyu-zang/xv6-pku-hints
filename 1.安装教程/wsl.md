@@ -86,3 +86,33 @@ Copyright (c) 2003-2019 Fabrice Bellard and the QEMU Project developers
 # 步骤8：开始试用Lab
 
 请参考[MIT的官方指南](https://pdos.csail.mit.edu/6.828/2020/labs/util.html)
+
+# 关于GDB
+
+## 配置
+
+若要使用gdb，需要禁用对.gdbinit文件的安全限制
+
+可以通过在Linux Shell中运行如下命令修改配置
+
+```bash
+echo set auto-load safe-path / > ~/.gdbinit
+```
+
+## 使用
+
+在希望调试xv6时，通过cd打开xv6代码文件夹，在终端中输入
+
+```bash
+make qemu-gdb
+```
+
+这时当前终端会输出大量内容并卡住
+
+不要关闭当前终端，开启另一个终端，通过cd打开xv6代码文件夹，输入
+
+```bash
+gdb-multiarch
+```
+
+即可进入gdb命令行，此时新终端是gdb命令行，旧终端是xv6命令行
